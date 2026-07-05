@@ -112,3 +112,6 @@ This project is an interactive Microsoft Excel dashboard built using the Adidas 
 
 <img width="1872" height="831" alt="Screenshot 2026-07-05 114709" src="https://github.com/user-attachments/assets/81547991-2265-40f6-a181-d3180ec5147b" />
 
+<img width="1862" height="822" alt="Screenshot 2026-07-05 114757" src="https://github.com/user-attachments/assets/bcfa4331-a642-4cc9-88e5-01592aa7e4a4" />
+
+
