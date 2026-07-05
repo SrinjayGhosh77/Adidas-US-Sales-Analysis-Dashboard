@@ -108,3 +108,7 @@ This project is an interactive Microsoft Excel dashboard built using the Adidas 
 * Business Insights
 * Data Visualization
 
+## Dashboard 
+
+<img width="1872" height="831" alt="Screenshot 2026-07-05 114709" src="https://github.com/user-attachments/assets/81547991-2265-40f6-a181-d3180ec5147b" />
+
